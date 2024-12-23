@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Hammad Riaz!  
+# 👋 Hi there, I'm ✨ HAMMAD RYAZ ☪︎
 A passionate **Full Stack Developer** specializing in the **MERN stack** 🚀  
 
 ---
