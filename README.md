@@ -13,9 +13,9 @@ A passionate **Full Stack Developer** specializing in the **MERN stack** 🚀
 ## 📫 How to Connect:  
 - 📧 Contact Mail: [hammadriaz@programmer.net](mailto:hammadriaz@programmer.net)  
 - 🌐 Portfolio: [www.hammad.ct.ws](https://hammad.ct.ws/)
-- 🎨 Behance: [@hammadRyaz](https://www.behance.net/hammadryaz) 
-- 📇 LinkedIn: [@hammadRyaz](https://linkedin.com/in/hammadryaz)
-- 🌳 LinkTree: [@hammadRyaz](https://linktr.ee/hammadryaz)
+- 🎨 Behance: [behance / hammadRyaz](https://www.behance.net/hammadryaz) 
+- 📇 LinkedIn: [linkedin / hammadRyaz](https://linkedin.com/in/hammadryaz)
+- 🌳 LinkTree: [linktree / hammadRyaz](https://linktr.ee/hammadryaz)
 
 ---
 
